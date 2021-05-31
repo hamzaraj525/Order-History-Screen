@@ -88,7 +88,7 @@ const styles = StyleSheet.create({
   },
 
   input: {
-    height: 40,
+    height: 50,
     margin: 12,
     borderWidth: 2,
   },
